@@ -1,0 +1,6 @@
+C:\Users\danny\source\repos\ElevenNote\ElevenNote.MDELS\bin\Debug\ElevenNote.MDELS.dll
+C:\Users\danny\source\repos\ElevenNote\ElevenNote.MDELS\bin\Debug\ElevenNote.MDELS.pdb
+C:\Users\danny\source\repos\ElevenNote\ElevenNote.MDELS\obj\Debug\ElevenNote.Models.csprojAssemblyReference.cache
+C:\Users\danny\source\repos\ElevenNote\ElevenNote.MDELS\obj\Debug\ElevenNote.Models.csproj.CoreCompileInputs.cache
+C:\Users\danny\source\repos\ElevenNote\ElevenNote.MDELS\obj\Debug\ElevenNote.MDELS.dll
+C:\Users\danny\source\repos\ElevenNote\ElevenNote.MDELS\obj\Debug\ElevenNote.MDELS.pdb

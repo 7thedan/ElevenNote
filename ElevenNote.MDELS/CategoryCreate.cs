@@ -13,7 +13,8 @@ namespace ElevenNote.MDELS
         [MaxLength(100, ErrorMessage = "There are too many chracters in this field.")]
 
         [Display(Name = "Category Name")]
-        public int CategoryID { get; set; }
         public string CategoryName { get; set; }
+
+        //data does everything. Model does just what you have to do everything. Data layer, the key. The data base numbers it.
     }
 }

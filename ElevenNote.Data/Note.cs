@@ -28,7 +28,7 @@ namespace ElevenNote.Data
         public DateTimeOffset? ModifiedUtc { get; set; }
 
         [ForeignKey(nameof(Category))]  
-        public int CategoryID { get; set; }
+        public int? CategoryID { get; set; } //nullerable
         public virtual Category Category { get; set; }
        
     }

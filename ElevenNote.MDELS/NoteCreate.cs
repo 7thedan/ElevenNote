@@ -16,7 +16,7 @@ namespace ElevenNote.MODELS
         [MaxLength(8000)]
         public string Content { get; set; }
         [Display(Name ="Category Name")]
-        public int CategoryID { get; set; }
+        public int? CategoryID { get; set; }
         public string CategoryName { get; set; }
     }
 }

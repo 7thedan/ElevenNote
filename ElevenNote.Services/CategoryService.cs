@@ -15,8 +15,8 @@ namespace ElevenNote.Services
             var entity =
                 new Category()
                 {
-                    CategoryID = model.CategoryID,
-                    CategoryName = model.CategoryName
+                    CategoryName = model.CategoryName 
+                    //this c is eleven fifty class
 
                 };
 
